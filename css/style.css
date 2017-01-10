@@ -1,0 +1,45 @@
+.container_12{
+  text-align: center;
+  color: pink;
+
+}
+.h1{
+    color: blue;
+    background-color: #e3e3e3;
+  }
+  nav ul li{
+
+    font-style: italic;
+    display: inline;
+
+  }
+  img
+  {
+    width: 100px;
+    height: 100px;
+    margin-right: 0px;
+    top: auto;
+  }
+
+  a{
+    text-decoration: none;
+  }
+  header{
+    background-color: yellow;
+    position: fixed;
+
+  }
+  aside ul li{
+    display: inline;
+  }
+  .grid_12{
+    position:relative;
+    top:10px;
+
+    margin-left: 4px;
+    margin-right:8px;
+    padding-right:0px;
+    width:50%;
+    height:39px;
+    margin-top: 100px;
+  }
